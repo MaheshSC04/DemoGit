@@ -218,11 +218,6 @@ exports.config = {
             {userName: `wmlsstaff1`, passWord: `Test123!`},//8
         ],
 
-        searchChild : [
-            {firstName: 'FName0019'},
-            {firstName: '0094'}
-        ],
-
         searchOrg:[
             {userName:'itestbdi03', passWord:'Test123!'},//0
             {userName:'itestbdi', passWord:'Test123!'},//1
@@ -264,9 +259,6 @@ exports.config = {
         childData:[ {
             eGender: `Female`, customDate: customDate, enrollDate: enrollDate, futureDate: futureDate, currentDate: currentDate,iCustomDate: iCustomDate, eCustomDate: eCustomDate,
         } ],
-        license:[
-            {testRecord:'50', sapOrder:'50'}
-        ],
 
         examiner: [
             {userName: `StephC16 `, passWord: `Test123!`},
